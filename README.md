@@ -1,13 +1,13 @@
-### Hi there 👋
-### I am Praveen Kumar
+### Hi there 👋, I am Praveen Kumar
 
-## I am Son Of Farmer, Villager, Developer  And learner!
-- 🔭 I’m currently working on Full Stack skills.
+## , Developer-learner-Villager!
+Learing Web-Dev Skills with a good pace and intent. 2021 Graduate of NIT UTTRAKHAND.please have a look on my skills [My-portfolio](https://kumar-praveen-k.github.io/)
+
+- 🔭 I’m currently working on Invenio Bussiness Solutions.
 - 🌱 I’m currently learning Back-End Development.
 - 👯 I’m looking to collaborate on Web-Dev projects.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I love to play Bascketball 
-
+- ⚡ Fun fact: I love to play Bascketball
