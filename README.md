@@ -21,4 +21,4 @@ skills: JAVA/HTML/CSS/Bootstrap/JavaScript/Reactjs/Redux/hooks/Nodejs/Expressjs/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-praveen-k)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile views](https://gpvc.arturio.dev/)
+![Profile views](https://gpvc.arturio.dev/kumar-praveen-k)
