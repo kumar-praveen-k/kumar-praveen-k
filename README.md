@@ -1,16 +1,16 @@
 ### Hi there 👋, I am Praveen Kumar
 
 ## Developer-learner-Villager!
-Learing Web-Dev Skills with a good pace and intent. 2021 B.Tech Graduate of NIT UTTRAKHAND. Please have a look on my skills [My-portfolio](https://kumar-praveen-k.github.io/)
+Learing Web-Dev Skills with a good pace and intent. 2021 B.Tech Graduate of NIT Uttarakhand. Please have a look on my skills [My-portfolio](https://kumar-praveen-k.github.io/)
 
-skills: JAVA/HTML/CSS/Bootstrap/JavaScript/Reactjs/Redux/hooks/Nodejs/Expressjs/Mongodb/Git
-- 🔭 I’m currently working at Invenio Bussiness Solutions.
-- 🌱 I’m currently learning Back-End Development.
-- 👯 I’m looking to collaborate on Web-Dev projects.
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/kumar-praveen-k/)
+Skills: JAVA | HTML | CSS | Bootstrap | JavaScript | Reactjs | Redux | hooks | Nodejs | Expressjs | Mongodb | Git
+- 🔭 currently working at Invenio Bussiness Solutions.
+- 🌱 currently learning Back-End Development.
+- 👯 looking to collaborate on Web-Dev projects.
+- 🤔 looking for help with ...
+- 📫 How to reach : [linkedin](https://www.linkedin.com/in/kumar-praveen-k/)
 - 😄 Pronouns: ...he/him
-- ⚡ Fun fact: I love to play Bascketball
+- ⚡ Fun fact: love to play Basketball
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kumar-praveen-k)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kumar-praveen-k/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://kumar-praveen-k.github.io)
